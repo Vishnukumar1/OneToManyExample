@@ -1,0 +1,20 @@
+{
+"name":"vinod",
+"email":"vinod@gmail.com",
+"salary":200000,
+"mobileNo":8712757560,
+"address":[{
+   "houseNumber":23,
+   "street":"5th cross",
+   "state":"Bangalore",
+   "pincode":560066
+
+},
+{
+   "houseNumber":24,
+   "street":"6th cross",
+   "state":"Bangalore",
+   "pincode":560066
+   }
+]
+}
